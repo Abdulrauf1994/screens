@@ -1,0 +1,176 @@
+.account-container{
+display: flex;
+justify-content: center;
+align-items: center;
+height: 750px;
+}
+
+
+.account{
+  border: black 2px solid;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 400px;
+  height: 580px;
+  border-radius:20px;
+  
+}
+
+.account-heading{
+  font-size: 16px;
+  font-weight: 650;
+  width: 300px;
+  text-align: center;
+  margin :20px;
+  word-spacing: 3px;
+  
+
+}
+
+.account-inputone{
+  border: none;
+  outline: none;
+  background: grey;
+  width: 140px;
+}
+
+.account-inputmain{
+  display: flex;
+  
+}
+.account-inputs{
+  background: grey;
+  margin: 10px;
+  display: flex;
+  width: 165px;
+}
+
+.zmdi-account{
+  color: white;
+  margin: 6px;  
+}
+
+.sec-input-main{
+  border: 1px solid black;
+  width: 350px;
+  margin: 15px;
+}
+
+.sec-input{
+  border: none;
+  outline: none;
+  width: 150px;
+}
+
+.zmdi-lock{
+  margin: 4px  ;
+}
+
+
+.option-main{
+  width: 350px;
+}
+
+.opttion-manu{
+  width: 350px;
+}
+
+.para-want{
+  margin: 10px;
+}
+
+.para-main{
+  width: 250px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  left: 0px;
+  
+}
+
+.para-onebox{
+  border: black 1px solid;
+  width: 150px;
+  border-right: none;
+  
+
+  
+}
+.para-one{
+  font-size: 13px;
+  text-align: center;
+  line-height: 30px;
+
+  
+}
+
+.para-twobox{
+  background-color: rgb(226, 223, 13);
+  width: 150px;
+  border: 1px solid rgb(226, 223, 13);
+
+}
+.para-two{
+  font-size: 13px;
+  text-align: center;
+  line-height: 30px;
+}
+
+.third3-input-main{
+  border: 1px solid black;
+  display: flex;
+  width: 350px;
+  margin: 20px;
+}
+
+.third-input-icon i{
+  color: black;
+
+}
+
+.third-input{
+  border: none;
+  outline: none;
+}
+
+.account-sec-para{
+  display: flex;
+  align-items: baseline;
+  width: 350px;
+  font-size: 15px;
+}
+
+.secpara{
+  text-align: center;
+}
+
+.account-third-para{
+  display: flex;
+  align-items: baseline;
+  width: 350px;
+  font-size: 15px;
+  margin: 15px;
+}
+
+.third-para{
+  margin: 5px;
+}
+
+.check-square{
+  color: rgb(226, 223, 13);;
+  background:white;
+  border: none;
+  outline: none;
+}
+
+.account-btn{
+  width: 350px;
+  height: 30px;
+  background: rgb(226, 223, 13);;
+  border: none;
+  outline: none;
+  border-radius: 20px;
+  /* margin: 20px ; */
+
+}

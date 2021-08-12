@@ -1,0 +1,122 @@
+body {
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  p {
+    padding: 0;
+    margin: 0;
+  }
+
+.screen3-alertbox-main{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    height: 125px;
+    padding-top: 50px;
+
+}
+
+.screen3-alertbox-content{
+    display: flex;
+    justify-content: space-between;
+    border: solid 1px     #808080;
+    align-items: center;
+    width: 980px;
+    height: 5px;
+    padding: 22px;
+}
+
+.screen3-alertbox-icontext{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-left: 12px;
+}
+
+.screen3-alertbox-text{
+    display: flex;
+    margin-left: 5px;
+}
+
+.crossicon-main{
+    display: flex;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+    align-items: center;
+    width: 150px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+.screen3-earning-box-main{
+   display: flex;
+   justify-content: center;
+   flex-wrap: wrap;
+   height: 100px;
+
+}
+
+.screen3-earning-box-content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'Roboto', sans-serif;
+    width: 900px;
+    
+}
+
+.screen3-Myjobs{
+    font-size: 35px;
+    font-weight: 600;
+    
+
+}
+
+.screen3-earning-font{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.screen3-contract-main{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+
+}
+
+.screen3-cotract-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    
+    height: 150px;
+}
+
+.screen3-contract-heading{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    height: 100px;
+    border: #808080 solid 1px;
+    width: 980px;
+    border-bottom: none;
+}
+
+.screen3-contract-heading h1{
+    margin-left: 35px;
+    font-size: 26px;
+    font-weight: 600;
+}
+
+.screen3-contract-text{
+    display: flex;
+    align-items: center;
+    height: 50px;
+    border: #808080 solid 1px;
+    width: 980;    
+}
+
+.screen3-contract-text p{
+    margin-left: 35px;
+}
+

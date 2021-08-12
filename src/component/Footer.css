@@ -1,0 +1,40 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+p {
+  padding: 0;
+  margin: 0;
+}
+
+.main-footer {
+  background-color: #deddd9;
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+.cont-footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.first-cont-footer {
+  display: flex;
+  justify-content: space-evenly;
+  width: 50rem;
+  font-weight: 400;
+}
+
+.first-cont-footer h6{
+  font-size: small;
+}
+
+.sec-cont-footer {
+  align-items: center;
+  text-align: center;
+}

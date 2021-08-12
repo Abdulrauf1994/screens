@@ -1,0 +1,70 @@
+/* .screen4-container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.screen4-content{
+    display: flex;
+    flex-direction: column;
+    width: 980px;
+}
+
+.screen4-workDiary{
+    width: 270px;
+    height: 130px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.screen4-workDiary h1{
+    font-size: 35px;
+    font-weight: 600;
+    
+}
+
+.screen4-2boxes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: #bbbcbc 2px solid;
+    height: 180px;
+}
+.screen-box1{
+    display: flex;
+    align-items: center;
+    border: #bbbcbc 2px solid;
+    height:90px;
+    width: 880px;
+
+}
+
+.screen4-alert-icon-main{
+    display: flex;
+    border: #7d7e7f
+    solid 2.5px;
+    border-top: none;
+    border-left: none;
+    border-bottom: none;
+    width: 90px;
+    height: 70px;
+    align-items: center;
+    justify-content: center;
+}
+
+.screen4-alert-text-main{
+    width: 420px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    margin: 20px;
+ }
+
+ .screen4-green-text{
+     color: #1dc948;
+ }
+
+  */

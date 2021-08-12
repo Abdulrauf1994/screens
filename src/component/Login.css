@@ -1,0 +1,99 @@
+.Login-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 750px;
+
+}
+.login-main{
+    border: black 2px solid;
+    width: 400px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+.login-mainheading{
+    margin:60px;
+    font-size: 30px;
+}
+
+.login-input-main{
+    margin: px;
+    border: 1px solid rgb(105, 105, 105);
+    width: 300px;
+    display: flex;
+    align-items: center;
+}
+
+.login-lockicon{
+    margin: 5px;
+    padding: 3px;
+}
+.login-input{
+    border: none;
+    outline: none;
+    
+    
+}
+
+.loginkeep-main{
+    display: flex;
+    align-items: center;
+    margin: 15px;
+    width: 300px;
+    justify-content: space-between;
+}
+
+.loginkeep-me{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(230, 227, 227);
+    align-items: center;
+    width: 150px;
+    padding: 5px;
+}
+
+.loginkeep-icon{
+    color: 	#31a24c	;
+    outline: none ;
+    border: none;
+    padding: 2px;
+}
+
+.loginkeep-text{
+    font-size: 12px;
+    font-weight: 500;
+    padding-top: 3px;
+  
+}
+
+.password-forget{
+    display: flex;
+    align-items: center;
+    padding-top: 3px;
+}
+
+.forget-text{
+    font-size: 12px;
+    font-weight: 500;
+    color: 	#1dc948	;
+}
+
+.loginbtn{
+    border: none;
+    outline: none;
+    border-radius: 20px;
+    width: 150px;
+    height: 30px;
+    background-color: 	#1dc948	;
+    color: white;
+
+}
+
+.notyou{
+    color:#1dc948	 ;
+}

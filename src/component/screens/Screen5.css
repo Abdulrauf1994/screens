@@ -1,0 +1,158 @@
+.screen5-container{
+    display: flex;
+    justify-content: center;
+}
+
+.screen5-content-main{
+    display: flex;
+    flex-direction: column;
+    width: 980px;
+}
+
+.screen5-heading-main{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 20px;
+    width: 250px;
+    height: 100px;
+}
+
+.screen5-heading-main h1 {
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.screen5-sub-mainbox{
+    display: flex;
+    border: #808080 solid 1px;
+    border-bottom: none;
+
+
+}
+
+.screen5-searchbar-main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 580px;
+    height: 100px;
+
+}
+
+.screen5-searchbar-border{
+    display: flex;
+    align-items: center;
+    height: 35px;
+    width: 480px;
+    border: #808080 solid 1px;
+
+}
+
+.screen5-searchbar-icon{
+    margin-left: 15px;
+}
+
+.screen5-searchbar-text{
+    margin-left: 10px;
+}
+
+.screen5-sortby-main{
+    display: flex;
+    height: 60px;
+    border: #808080 solid 1px;
+}
+
+.screen5-sortb-text{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    width: 110px;
+    font-size: small;
+
+}
+
+.screen5-sortb-text h6{
+    margin-right: 14px;
+}
+.screen5-startDate{
+    display: flex;
+    align-items: center;
+    width: 330px;
+
+}
+
+.screen5-startDate-box{
+    border: #808080 solid 1px;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    width: 320px;
+    height: 30px;
+
+}
+
+
+.screen5-startDate-box h6{
+    margin-left: 10px;
+    padding-top: 3px;
+    display: flex;
+
+}
+
+.import-icon{
+    display: flex;
+    align-self: center;
+    align-items: center;
+    border: #808080 solid 1px;
+    height: 20px;
+    border-radius: 5px;
+}
+
+.Total{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 70px;
+
+}
+
+.screen5-CheckBoxIcon{
+    display: flex;
+    align-items: center;
+
+}
+
+.screen5-CheckBoxIcon-text{
+    margin-left: 15px;
+}
+
+.screen5-download{
+    display: flex;
+    justify-content: flex-end;
+    width: 225px;
+    align-items: flex-end;
+    align-items: center;
+}
+
+.screen5-download p{
+    font-weight: 500;
+}
+
+.screem5-lastTextbox{
+    border: #808080 solid 1px;
+    border-top: none;
+    height: 100px;
+    display: flex;
+    align-items: center;
+
+}
+
+.screem5-lastTextbox p{
+    margin-left: 45px;
+    margin-bottom: 20px;
+}
+
+.check{
+   color: 	#1dc948 !important ; 
+}

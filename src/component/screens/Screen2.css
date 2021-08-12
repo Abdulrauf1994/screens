@@ -1,0 +1,154 @@
+/* .screen2-alertbox-main{
+    display: flex;
+    justify-content: space-evenly;
+    height: 130px;
+    padding-top: 40px;
+}
+
+.screen2-alertbox-content{
+    display: flex;
+    border: solid 2px black;
+    align-items: center;
+    width: 980px;
+    height: 5px;
+    padding: 22px;
+}
+
+.screen2-first-para{
+    margin-left: 5px;
+    font-size: 15px;
+}
+
+.screen2-second-box-main{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.screen2-second-box-content{
+    display: flex;
+    align-items: center;
+}
+
+.screen2-secbox-one{
+    width: 490px;
+    height: 450px;
+    background-color: black;
+    
+
+}
+
+.screen2-secbox-line-main{
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+}
+
+.screen2-secbox-line{
+    width: 450px;
+    height: 10px;
+    border-radius: 5px;
+    background-color: white;
+}
+
+.screen2-secbox-yellowline{
+    width: 100px;
+    height: 10px;
+    border-radius: 5px;
+    background-color: #e1d412;
+}
+
+.screen2-secbox-linetext{
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    font-size: small;
+}
+
+.line-first-text{
+    color: #e1d412;
+}
+.screen2-secbox-one-heading{
+   display: flex;
+   justify-content: space-evenly;
+   align-items: flex-end;
+   width: 460px;
+   height: 130px;
+}
+.screen2-secbox-one-text{
+    color: white;
+    font-size: 29px;
+    font-weight: 500;
+    width: 400px;
+    
+}
+
+.screen2-secboxone-last-para{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    width: 460px;
+    height: 70px;
+
+}
+.screen2-secboxone-last-para p{
+    color: white;
+    font-size: 15px;
+    font-weight: lighter;
+    width: 400px;
+    word-spacing: 2px;
+}
+
+.screen2-secbox-two{
+    display: flex;
+    flex-direction: column;
+    height: 320px;
+}
+
+.screen2-secbox-two-main-heading{
+    display: flex;
+    padding: 20px 20px 0px;
+}
+
+.screen2-secbox-one-input{
+    width: 370px;
+    margin: 10px 20px 10px;
+    padding: 5px;
+}
+
+.screen2-secbox-example{
+    margin-left: 5px;
+    padding: 15px 15px 0px;
+}
+
+.screen2-Secbox-two-3point-main{
+    display: flex;
+
+
+}
+
+.screen2-Secbox-two-3point-content{
+    display: flex;
+    flex-direction: column;
+   
+}
+
+.screen2-Secbox-two-3point{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 5px;
+    
+}
+
+.dot{
+    display: flex; 
+    margin-left: 15px;
+}
+
+.screen2-Secbox-two-3point p{
+    display: flex;
+    font-size: 14px;
+    font-weight: 490;
+    margin-left: 10px;
+} */
